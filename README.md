@@ -9,7 +9,7 @@ The only motive of Farmax is to help the farmers in some way or the other. First
 
 How to contribute?
 
--->Fork 
+-->Fork   
 -->Clone and setup in Android Studio(work on bluetooth communication would be appreciated)  
 -->Develop  
 -->Pull request
